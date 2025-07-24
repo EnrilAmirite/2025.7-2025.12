@@ -1,0 +1,214 @@
+id,question,correct_answer,model_answer,is_correct,topic_category
+8dc0e2f2-b982-457b-a5eb-512c51653fb5,A victim of Tsunami has difficulty in overcoming the experience. She still recollects the happening in dreams and thoughts. The most likely diagnosis is,A,A,true,disorders
+d22a7f07-c598-452c-b01f-e93347e08a46,Which of the following has to be present for diagnosis of major depressive disorder,A,A,true,disorders
+0400871c-d648-45f2-9b71-9d7bf7d65a88,SSRIs should be carefully used in the young for the management of depression due to increase in:,C,C,true,disorders
+74fc2f1d-6b36-435d-a477-59f4377e89ff,Treatment of choice for generalized anxiety disorder is?,A,A,true,treatments
+a8d54e61-b164-450b-a2b8-6644ca290abc,Beta blockers are indicated in -,B,B,true,treatments
+60c1bc25-7c92-4508-824b-05c52f3fc569,Psychosurgery is used in,C,C,true,treatments
+7ad2eedb-f2c8-4739-8115-e398906116fa,Trichotillomania-,C,C,true,disorders
+37fab6fd-1212-47a2-9138-a20634367df3,Suicide is most common in -,A,A,true,symptoms
+1586c80e-f05f-4712-b337-5d6ed0def95a,Depression patients in developing countries most prominently show which of the following feature?,C,C,true,disorders
+80c83132-0c7b-452d-8218-757339c85c3d,Disruption or disorganization of biological rhythm is observed in,C,C,true,disorders
+0aa3cb66-5be9-4b79-91db-b4390572c551,Post traumatic stress syndrome is due to -,D,D,true,disorders
+aebc9e17-68e4-4d78-ad6c-48bf16104c65,Which of the following disease is seen only in females?,C,C,true,disorders
+f88da465-cb31-4d43-9dcf-da19b9481d2a,"A young lady lost her job, loss of appetite wakes up at 3 am. What's the diagnosis",A,A,true,disorders
+a5f14e18-3470-49df-bf06-9aa54cf40abd,Rapid cycling is associated with which illness:,C,C,true,disorders
+acd0169d-8539-46e3-a289-41fca0afcff4,Most common symptom associated with adult OCD?,A,A,true,disorders
+7b37ca1d-7166-46df-b411-06cea03ab88c,Ganser syndrome is a feature of -,C,C,true,symptoms
+7c9f6920-5687-4255-98b9-1aa652db9fd1,Rett's syndrome is characterized by -,A,A,true,disorders
+2fbe89f3-b583-4843-8e59-6210a21d8392,Hypocretin system plays a critical role in which of the following disorders?,D,D,true,disorders
+1efb6fb5-7097-4cb3-8bca-059f7bf70530,Early morning awakening is a feature of,C,C,true,disorders
+09608511-2c68-4690-9bf5-c02eac8764a1,Delusion is the disorder of:,A,A,true,symptoms
+cbd6afda-5de0-4038-985d-14d344469101,What is affected in bipolar disorder,A,A,true,disorders
+f37d78a8-434a-4646-8cad-5f91edc1c4bb,Trichophagia is characterized by -,B,B,true,disorders
+6d575ab1-0e65-4686-ae82-c63da550fca2,"Tics, hair pulling, nail biting behavior are best treated with?",B,B,true,treatments
+923f811b-cc57-45e4-9134-8c50221a63be,Post traumatic stress disorder is due to?,D,D,true,treatments
+6e3847de-d9c2-4d30-98b7-e952106441f1,A bipolar disorder patient is kept on lithium therapy. As a doctor when are you going to ask the nurse to get serum lithium levels checked ?,B,B,true,disorders
+2f17f1b7-ca39-4a56-af39-0ce64a5d371b,Bipolar II disorder includes -,D,D,true,treatments
+5ac5cc60-3843-4ed8-abdd-2c9cc47f6e87,Which of the following is a classical symptom of depression?,C,A,false,treatments
+5a9bbc11-81f5-4455-bfb1-647ca3a80585,Lithium is used in prophylaxis of,D,D,true,treatments
+fa3cb46f-1e2a-4f44-a3ab-a18afa2defd8,"A 31 - year - old male, with mood disorder, on 30 mg of haloperidol and 100 mg of lithium, is brought to the hospital emergency room with history of acute onset of fever, excessive sweating, confusion, rigidity of limbs and decreased communication for a day. Examination reveals tachycardia and labile blood pressure and investigations reveal increased CPK enzyme levels and leukocytosis. He is likely to have developed:",C,C,true,disorders
+7b6aa345-75df-448f-883a-1a9159b07084,reinforcrmrnt theory in management of behavioral issues was given by,B,B,true,treatments
+24ab5dfe-5b8b-4e0a-8878-09c379a24d16,Phobia is a type of,B,B,true,disorders
+0f27bc19-ce9a-4895-ab4f-e61050bca628,Repetitive irresesistable thought to do something-,B,B,true,symptoms
+9049a9ab-6e97-4eb5-8d60-8792bfb09164,An engineering student has difficulty to deliver seminar with a fear that his seniors are present despite knowing that they are supportive. He further has difficulty speaking in front of others and also avoids going to the parties. Which of the following is the most likely diagnosis?,C,C,true,treatments
+a0892fd4-250a-4d5c-9d5b-c2960b858f82,"A 25-year-old man presents to the outpatient department with the complaint that he has been depressed ever since he can remember. In addition, he also has disturbance in sleep and appetite. However, he has been working, though not to the level of satisfaction of him or his supervisors. The patient also has general dissatisfaction with life. The most likely diagnosis is:",C,C,true,disorders
+5183e0ab-a769-4464-a81c-f8abf19aaf0b,"A physician examines a severely depressed 75-year-old woman. The woman relates that she feels so low that she cannot enjoy anything in her life, and that even winning the state lottery would not make her feel any better. The best description of this patient's mood is",A,A,true,disorders
+764155a3-433c-436b-bf94-2279176c9f23,Treatment of resistant depression is -,A,A,true,treatments
+de409c9f-a9d1-4922-8f8a-593de7d4a29e,"A 22yrs old male suffer from decreased sleep, increased sexual activity, excitement and spending excessive money for 8 days. The diagnosis is",B,B,true,disorders
+e162d7cf-4319-4bdd-a6ae-4e27a7085717,"A 29 year old woman has severe manic episode. She has been diagnosed with bipolar affective disorder. Among the following, which one is not used for the prophylaxis of her illness?",D,D,true,disorders
+d72728ad-3f45-49d4-82aa-046e5075738e,"In depression, there is deficiency of",A,A,true,disorders
+f43e488a-4e54-4d41-b539-6281fb407cc2,Floccilations are seen in?,D,D,true,symptoms
+12bebc24-81b9-4ffc-a1ae-d3059efd03a4,Dysthymia is,A,A,true,disorders
+be4c6270-550e-4e45-90c1-2913d451a104,Treatment of choice for acute depression is?,A,A,true,disorders
+5e16eadb-4687-4edd-a518-4f4ff3514575,Drug of choice for generalized anxiety disorder -,A,B,false,treatments
+435fefef-669c-4da6-9084-6a7704bd3741,Reversible cause of dementia is,A,A,true,disorders
+a23a3f1e-5f12-44b6-a833-2a9d30151f53,"A 23 year old man comes to psychiatry outpatient due to symptoms of sleep disturbances and 'feeling low'. The symptoms staed 2 months back after he found that his girlfriend was cheating on him and was in a relationship with her boss. The patient immediately broke up with her. However since than he has been feeling sad, and repos that nothing makes him feel better anymore. The patient has stopped going to office and doesn't even come out of his room unless its absolutely necessary. He has not slept for seven days and has lost a couple of kilograms in last two months. During interview he said, 'i am a loser, my girlfriend chose a 50 year old man over me, there must be something seriously wrong with me, '. What is the diagnosis?",A,A,true,disorders
+bf768052-9281-46ea-86c2-854a9f0a0867,Absolute contraindication to ECT is,B,D,false,treatments
+3ccc943b-88f0-4526-9d7f-10d5ab718a6c,A 60 - year - old man whose wife died 3 months back now stas to believe that his intestines have rotten away and that he is responsible for the death of his wife and should be sent to prison.How will you treat him?,A,A,true,disorders
+1078f617-3814-4756-a954-f27420880464,Role of marijuana in AIDS related cachexia-,C,C,true,disorders
+2aa42d31-6c2e-4814-b8d0-d72b46d366f3,"A young male, victim of earthquake few months back, presented with complains of recurrent and intrusive recollection of the events and thoughts with anxiety causing disturbed routine life. The likely diagnosis is",A,A,true,treatments
+5acfd314-7735-46e7-a0e8-adbbb1245179,Which of the following is not a criterion to diagnose depression:,A,A,true,disorders
+635e6bc4-dfb7-4c94-9ce5-bd7a1008027c,Which of the following is not an indicator of a good prognosis for major depressive disorder?,C,C,true,disorders
+e9064246-23a5-4e72-9f91-c8c6ddfb3ff2,Term psychiatry was coined by:,B,B,true,symptoms
+d8c969fb-aee4-4693-906c-e96691d4b54f,Most common major symptom of obsessive-compulsive disorder is,A,A,true,disorders
+0adb4bfa-e179-4230-8e43-c430c3063053,"A 30-year-old pregnant woman comes to your clinic with decreased sleep, increased appetite and hyperactivity for last 2 weeks. A diagnosis of mania is made. Fuher probing reveals four episodes of major depression in the past two years. What drug will you prescribe to this patient?",A,A,true,disorders
+efc25614-c8dc-4c80-b13c-e513d447c1e7,Depression is not caused by:,C,C,true,disorders
+d501fc54-28eb-44e2-864b-d015d534f636,What is the antidepressant agent most likely to cause persistent erections (priapism) in a 40-year-old male patient?,C,C,true,disorders
+68b3323a-3dfd-4ed4-825d-8b9a8366d443,"A 42 year old male with a past history of a manic episode presents with an illness of 1 month duration characterized by depressed mood, anhedonia and profound psychomotor retardation. The most appropriate management strategy is prescribing a combination of:-",B,B,true,disorders
+76660c8c-12a7-42cd-93c1-b7c8c56d5609,Which of the following is not a feature of atypical depression?,A,A,true,disorders
+8647fe01-8718-4446-b8cf-c9fc122f1ca4,Emile Durkheim is linked with work on which of the following conditions in psychiatry?,A,A,true,disorders
+f5b12e56-0b67-46d0-820e-d72da59ef717,"Drug of choice for ""Premenstrual Dysphoric Disorder"" is:",D,D,true,disorders
+6592cc6d-47f6-4a5a-b779-8247ef508b1d,extinction was given by,D,D,true,treatments
+8ea0b3d1-8a63-4b1a-b91e-109daf355576,Depression in elderly is treated with?,C,C,true,disorders
+1ff50b53-5854-40ad-9ddc-3b9710535484,Alexithymia is:,D,D,true,disorders
+fd903ddd-cdab-4632-ad74-881b673763cd,Which of the following is not a feature of depression:,C,C,true,disorders
+04603f1c-2864-48b9-a387-814c15fd3a51,negative reinforcrmrnt was given by,B,B,true,treatments
+6ffe9c53-b1ef-403f-85fb-b2b79aa0a10e,ECT is most effective in:,B,B,true,treatments
+ae313b0c-fa23-484b-8f09-7c558a7d9c44,Which of the following is an atypical antidepressant-,C,C,true,treatments
+8c314bae-7603-4a39-b153-f8f3990050c7,Haloperidol induced extarpyramidal side effects are treated by -,C,C,true,treatments
+5b0bab1b-5372-4fd9-82e2-9097890d9048,"In OCD, if patient tries to resist obsession, then patient develops?",C,C,true,treatments
+ecbb79b0-8a8b-457e-bcae-15d53c66cdca,Erotomania is a,C,C,true,disorders
+6d68e1b8-6afe-4cb4-b4a3-5ac138cd4270,A clinical sign of mania is,D,D,true,disorders
+1fc76516-7a06-4ef6-bd0f-f61da2e18443,"A post-natal mother who delivered 2 days back presents with increased tearfulness and sleeplessness. No features of anhedonia, suicidal thoughts or lack of interest present. Most probable diagnosis:",C,C,true,disorders
+d4982ec1-5e03-4092-908c-e93f0bee9c91,Daily depressed mood for minimum____ weeks is must to classify someone as suffering from major depression disease,B,B,true,disorders
+8020abb3-8994-4384-a043-ba3855c26f06,Othello syndrome is?,C,C,true,symptoms
+51bdb3bf-c6b1-40df-91d6-55d71a0728b8,A primigravida female feeling depressed and showing emotional lability soon after delivery Most likely cause is?,A,A,true,disorders
+00cc0fca-7bb6-44e4-a2af-4cbd87a6e5eb,omission was given by,C,D,false,treatments
+59924bd5-8bb3-4176-b515-2302af5a684e,Counteransference is,B,B,true,treatments
+95394a46-c20c-41ca-96d0-26765bff27ea,A male patient with bipolar disorder is controlled on medications. Symptoms of mania sta to appear whenever he himself tapers down the drugs. What type of treatment can improve compliance in this patient?,A,A,true,disorders
+395a1598-58e2-4695-a782-23e0758c00b5,18 year old girl with circumscribed bald patch with no organic disease & no behavioural disorder has -,B,B,true,disorders
+bbebb8ed-6707-45a6-97de-4275969da3ba,Typical change in problem behaviour shows how many stages,D,B,false,treatments
+2b9abf9b-4b92-4faf-9efb-ae88fece24e5,Ekbom syndrome is referred to as:,A,A,true,symptoms
+2c97bac5-2031-4123-8fec-d7daf699e94b,"A post graduate trainee could not deliver seminars and presentations, fearing his seniors despite knowing that they are supportive. He has difficulty speaking in front of others and also avoids going to the parties and college outings. The most likely diagnosis is he is suffering from:",C,C,true,treatments
+ded8fe10-6d10-4a5a-a19e-354c3c28723b,"A patient was brought to the ER with non stop talking, singing, uncontrollable behavior and apparent loss of contact with reality. It is diagnosed as a case of acute mania. Which of the following drugs is most suitable for rapid control of his symptoms?",B,B,true,disorders
+74fe4ca3-7c5c-4cfe-8115-836f52c2bc15,Drug of choice for rapid cycles of bipolar disorder is,A,A,true,disorders
+7f97c020-bf3c-4482-96f5-a03875d55a90,Drug of choice in bipolar disorder is?,B,B,true,disorders
+a440486f-1460-4ebd-b8e9-e15fb0fecb49,The most prevalent psychiatric illness in the general community is,A,A,true,disorders
+b1909f0a-dfe3-4215-840f-9277bca539ce,"A group of 4 teenagers while going for a trip met a car accident. Out of four, 3 people died on the spot. Surviving girl was admitted in an ICU for 3 months. After being discharged she often gets up in night and feels terrified. She says that she sees same events in her dreams. She is now afraid of the cars. The diagnosis is?",D,D,true,treatments
+3b6b5ab1-d48a-4df9-8208-7466812a6a0d,Most common psychiatric disorder is?,B,B,true,treatments
+7aecac38-0c93-4148-81f9-3da75f688be4,Which of the following drug when combined with Electro-convulsive therapy leads to post ictal delirium,B,B,true,disorders
+4e75f6dc-a9b8-4873-938a-57e43de86e64,What does double depression means?,C,C,true,disorders
+8820dd02-54c5-4e21-9737-d3e91b588058,Delusion of persecution is?,B,B,true,symptoms
+f6c811b0-3802-41b8-92ba-177c1097dd2c,Delusion is the disorder of which of the following:,A,A,true,symptoms
+70221dec-38f2-4de6-beb6-69f9c91dd7e5,"To diagnose depression, symptoms should last at least for",C,C,true,disorders
+31f1beec-335f-4460-a4e9-a96325597eef,Which of the following antidepressants is least likely to have sexual side-effects?,B,B,true,disorders
+e5c4e0e0-9e47-4267-976e-03911fb8e4f4,Which of the following is the most effective treatment modality for post-traumatic stress disorder,A,A,true,disorders
+0bfc5f51-2cd4-406b-bec5-4c77bb12e4cf,A distinguishing feature of psychotic disorders is,C,C,true,disorders
+fcf07dd3-2cef-4c63-8c05-cf49d765fa16,Drug of choice in depression in old person is,A,A,true,disorders
+43c6861e-50e2-493f-b92c-1ac6ef684e2a,Reactive depression is similar to:,C,C,true,disorders
+587c0a60-f9d9-4a09-9a25-91e59a5aa09f,Free-floating persistent anxiety and Excessive worry are characteristic features of,A,A,true,disorders
+4b375ac7-2f31-4e21-9db3-04c9ae569cab,Minimum time duration for the diagnosis for mania is?,A,A,true,treatments
+14a54ceb-a2eb-4729-8d4f-22c1b25fc2bd,A patient can be taught to control his involuntary physiological responses by which of the following therapies,C,C,true,treatments
+762a8cdb-ea0b-4e55-a4f9-1b9c1996158e,Which of the following is a psychosis-,D,D,true,treatments
+8d7ce4b9-2d19-4385-9fd9-0456e5a01ed6,Which of the following medication is least effective against depression?,A,A,true,disorders
+fede8532-05d1-40c5-8cbb-1960647a3bbc,"Esketamine, the drug that has been approved by FDA in 2019, has been approved for treatment of -",A,A,true,disorders
+746840e0-8aa1-4d12-8276-a4686d467474,Most common psychiatric illness,A,A,true,disorders
+534b2822-fd67-44dc-a2f2-86cef8b2a48c,Pathological jealousy is?,A,A,true,symptoms
+7b3f5261-868c-4b15-8171-84c3a3cad6b9,A 72 yr. old male lost 10kgs since last 3 months. He had profuse guilt for the mistakes he has done in life and doesn't sleep more than 4 hrs. per day. The probable diagnosis is,B,C,false,disorders
+5b13cd2f-6a1f-47b6-bf45-ae798b55d7c1,Cardinal element of behavior therapy is?,B,B,true,treatments
+9baee30e-84cb-4abf-af21-eaa38ef0e78c,Max cut oft duration for prolonged seizures post ECT according to American psychiatric society:,D,D,true,treatments
+05947d13-cdb4-42af-af54-f77b0f72320f,behavioural therapy was given by,A,D,false,treatments
+4798835f-90f2-4789-83be-4bf82b70ceb2,A child is not eating vegetables. His mother stas giving a chocolate each time he finishes vegetables in the diet. This method comes under which of the following?,A,A,true,treatments
+c41e901d-761b-49ef-8d50-23a645135fe4,"A 40 year old male presents with sudden onset breathlessness, anxiety, palpitation, hot flushes, dizziness & chest pain. He is afraid of dying. Physical examination is normal. ECG & X-ray are also normal. What is the diagnosis?",A,A,true,treatments
+48af9eeb-f80a-4396-be5c-4318ac937764,Systematic desensitization is a behavior therapy used in treatment of which of the following disorder?,D,D,true,treatments
+240be601-27a3-44a5-80cc-633b4d133ee1,Which of the following is not a disorder of form of thought?,C,C,true,symptoms
+fef2b78a-ebfb-4886-a266-85101ddef4e4,"A person going to temple gets irresistible sense of ideas to abuse God, which cannot be resisted, likely diagnosis is :",A,A,true,disorders
+e11e9b2d-0b34-4531-9895-3b03f7d3f98b,Minimum time period to diagnose depression with daily manifestation is?,B,B,true,treatments
+a56c0ffb-b054-418c-bd49-a2edc94cb956,"In clinical practice, most common psychiatric illness seen is:",C,C,true,treatments
+24877349-63c4-4c90-b422-7755767d1548,The most common comorbid illness with depression is,B,A,false,disorders
+8803b55c-dd83-452a-ba70-ca2a4653a350,A 25 year old male believes that his penis is decreasing in size everyday and one day it will disappear one day and he will die. Diagnosis is -,D,D,true,disorders
+cda0e6ef-e6a4-4349-a457-5ff260c24b7c,Most common phobia is,D,D,true,disorders
+e71830ef-6839-4500-82ba-4da21552bd07,A patient presents to the emergency depament with self harm and indicates suicidal intent. Which of the following conditions does not warrant an immediate specialist assessment?,B,D,false,disorders
+944edfc2-e501-4170-b235-b36a70b8e6ed,Time interval between acute and persistent psychotic disease is -,D,D,true,symptoms
+1f9f34eb-2c48-46ed-95b6-3610d35975c2,"A man taking 20 cigarettes per day, started coughing, his family suggested quitting cigarettes. He is ready to quit but thinks that quitting will make him irritable, the best health planning model followed is -",C,C,true,treatments
+4499c6c7-021f-4eeb-ad0b-eee1e747585b,Drug used for narcoanalysis is,B,B,true,treatments
+e29a788c-4a30-4c69-b6a9-3661b1ef0650,Flooding is a treatment modality used in,A,A,true,disorders
+b8f7f301-e84a-4b18-a143-288c2f005f71,"A 50-year-old male presents with a 3-year history of irritability, low mood, lack of interest in surroundings and general dissatisfaction with everything. There is no significant disruption in his sleep or appetite. He is likely to be suffering from",C,C,true,disorders
+3567c16e-28fe-4fac-bd38-9284a93e85e3,Neuroleptic malignant syndrome is treated with:,A,A,true,symptoms
+cf31ee2f-f8f0-482f-b56d-44293bd7ea63,"A 50 - year - old male presents with a three year history of irritability, low mood, lack of interest in surrounding and general dissatisfaction with everything. There is no significant disruption in sleep and appetite. He is likely to be suffering from:",C,C,true,disorders
+25fffa6d-7dba-4c17-b03e-674f27ba833f,Depression is seen in: a. Hypehyroidism b. Hypoglycemia c. Adrenal disorder d. Pheochromocytoma,D,D,true,disorders
+ef818735-7c85-40a0-9131-6a8b41b90f7e,"In depressions, there is deficiency of -",A,A,true,treatments
+81ab2cb6-4501-471c-800d-5e26b6f6fe1f,Drug of choice for generalized anxiety -,B,B,true,treatments
+36d9733c-63c3-4950-bf73-b4c3bcce6233,"A 4-year-old child who has received beatings in the past, from which he could not escape, appears unresponsive and no longer tries to escape new beatings. This behavior by the child is an example of",D,D,true,disorders
+efc638b5-cc5d-45e0-ab7a-93a0f8f5bc2e,An objective sign of depression involving the upper eyelid is:,A,C,false,disorders
+41639a5d-2d36-4bf3-970b-81e38211c8db,Therapeutic exposure is form of_______ therapy.,D,D,true,treatments
+41d29caf-dc2e-4bdc-b88f-dcdeefcaace0,Which of the following substance is not involved in Panic disorder?,D,B,false,disorders
+b69b9b43-c50f-494b-9e49-047b15fbeca5,Father of modern psychiatry is -,C,D,false,symptoms
+318c85b5-fc54-46eb-b74a-6c32ed34b520,Agoraphobia is most commonly associated with?,C,C,true,treatments
+ef39671e-7cc0-4024-b56d-15eb85476c5a,significance of punishment in behaviour management was given by,C,C,true,treatments
+77fd9fb5-aa63-46fd-8b21-be7f01be285a,The absolute contraindication for Electro Convulsive Therapy {ECT} is,A,A,true,treatments
+88d36f52-c8ac-4feb-896d-b58556552905,Symptom of neuroleptic malignant syndrome -,D,D,true,symptoms
+7fc81453-8f41-4fe9-b95c-0d79922f91c7,Most common age for depression is,B,B,true,disorders
+be651be5-430f-43a3-9c6c-4070a2340c09,Pathognomonic of maniac episode is,B,B,true,disorders
+2b56ba1f-6fef-40fa-9550-60482f9a137a,Pavlov's experiment is an example of -,B,B,true,treatments
+6813255e-f3cb-41f7-b229-b51569bc3ef2,Cyclothymia is a type of,D,A,false,disorders
+39a5f9b9-2e38-4db1-84c8-cf85442d8591,Chronic mild depression of how much duration is considered to be dysthymia?,D,D,true,disorders
+0679f87d-025a-4da3-9e41-38f97e29f0dc,"A 40 year male patient with a history of road traffic accident, 3 months back, presents with complaints of dreams about the accident. He has visualizations of the scene whenever he visits the place of accident. Which of the following disorder that he might be suffering from?",D,D,true,treatments
+758ffdce-84bd-4a94-ad1f-1e7b24b0ca41,Type II bipolar disorder includes a combination:,A,A,true,treatments
+20b1e008-9540-42c4-b375-2ad6f0b24cb4,Therapeutic exposure is a form of,A,A,true,treatments
+fd8dbb96-8a75-40da-b40c-08416cb7878c,Best indication for ECT is:,A,A,true,treatments
+d355f6e4-a741-4e5d-b7e5-85ed1772004b,Which of the following symptoms must be present for the diagnosis of depressive disorders?,A,A,true,disorders
+2909d8a6-84e8-4430-b627-7f0a3a1cf175,"An IT employee after taking up the job is feeling guilty, hopeless and not able to concentrate on work. His symptoms started 3 years back when he entered college. Likely diagnosis?",B,B,true,treatments
+040676b5-4ab0-4c15-884b-433e332d5ccb,A Clinical sign of mania is?,D,D,true,disorders
+1ffb3601-25ae-4046-8018-ad54fb97f825,Treatment of choice of bipolar mood disorder -,B,B,true,treatments
+029c6619-e9b6-4e10-8f21-8f2636768a3a,Delusion is a disorder of?,A,A,true,symptoms
+a57bc4ab-c7e7-4791-b0f3-16c578b681a1,"According to the ICD-10 revision, for establishing a diagnosis of mania, the symptoms should persist for at least:",A,A,true,treatments
+e573d539-5fda-4e90-84a3-6c92ad4ddbbc,Phobia in elevator is an example of?,C,C,true,treatments
+45bcd114-0e13-4547-98d6-3e94677fa0a8,A student unable to deliver speech before audience is suffering from,A,A,true,disorders
+2cc53fcb-9b66-46ed-957a-33288833c959,Which of the following is characteristic of a dissociative disorder?,A,A,true,disorders
+e4083d92-ce06-4edb-a1a7-9752eccd9039,A 72-year-old male suffering from major depression is recently trying to commit suicide multiple times. The best treatment is,D,D,true,disorders
+f9b1e68a-1b13-47a8-82e9-db0d9216beae,A Victim of Tsunami has difficulty in overcoming the experience. She still recollects the happenings in dreams and thoughts. The most likely diagnosis is,A,A,true,treatments
+c62147a4-dc78-47ce-96cd-1be12052dc54,Feature associated with mania is -,D,D,true,treatments
+be0c3054-ce2e-4d3d-b0a8-91f7242be9b9,A 25-year-old woman complains of intense depressed mood for 6 months with inability to enjoy previously pleasurable activities. This symptom is known as:,A,A,true,treatments
+a842fb4d-163e-4c30-8bf6-3c8385dbb9d6,ECT(electroconvuIsive therapy) is effective in:,B,B,true,treatments
+e34dbda7-10fd-4089-88f3-29d3e781afce,Phobia is defined as,B,B,true,disorders
+68a16522-f61e-4c62-8249-67332b3c9940,Which of the following increases on Electroconvulsive therapy,D,D,true,treatments
+646b013a-e8a4-40b4-bdc1-26aa5ae7f94c,Which of the following has to be present for diagnosis of manic-depressive psychosis?,A,D,false,disorders
+0cf9207a-9c41-4134-9926-3666e261a886,ECT is mainly indicated in:,A,A,true,treatments
+6ff7d1c9-33b4-42fc-9fb1-e539081be49b,Treatment of choice for phobic disorder is,B,B,true,disorders
+d5e702b6-18f9-4a69-a7d6-0b6362ef3d40,A 32-yrs-old woman is diagnosed with major depression. What is the chance that her identical twin sister will develop the same disease?,D,C,false,disorders
+356f5b80-cb65-47d3-91bf-549e4a278d54,"A medical student could not deliver a seminar, fearing seniors. He is aware of the irrationality of his fear. Likely diagnosis is",B,B,true,disorders
+adeea719-c3ba-4504-8382-c3621cb1c138,Disruption or disorganisation of biological rhythm is observed in,C,C,true,disorders
+9e413270-b3f4-45ee-a44c-1ec9bad460ca,A patient on antidepressant therapy developed sudden hypeension on consuming cheese. The antidepressant is possibly:,B,B,true,disorders
+4f04cbab-c048-4163-afa7-d895553f98aa,Agoraphobia is?,B,B,true,treatments
+f6301966-ef82-4926-98b3-22e6d4cd7af5,Maintaining sick role by any means is a characteristic feature of:,D,D,true,disorders
+bb23eb30-873e-4b8d-a605-c9528110f3fd,Pavlov's experiment is an example of,B,B,true,treatments
+2d49c22a-b4dd-47a6-b5c4-af3fd052bcf7,"Male with symptoms mimicking hea disease with normal ECG and X-ray, the diagnosis is",B,B,true,disorders
+8e34980c-b750-4a70-98a1-ecb9e84706fd,A depressed patient does not want to take medication on a daily basis. The selective serotonin reuptake inhibitor (SSRI) most suitable for this patient is?,B,B,true,disorders
+01f70157-38c9-413a-a44e-d3db4342158c,"Id, ego, superego are terms coined by -",A,A,true,symptoms
+1de31cb3-fe97-4415-9593-48d7b4339178,"A 20-year-old man was taking excess alcohol and indulged in illegal sexual activities with lack of sleep, irritability and isn't fatigued since 3 weeks, Diagnosis is",C,C,true,disorders
+dec337c5-7c2b-4564-ad91-62e40542a22f,"Patient on antipsychoties for 3 weeks, presents with high grade fever, raised CPK and myoglobinuria. What is the most probable diagnosis?",A,A,true,symptoms
+f2ac2f17-f084-4c58-8cdb-8127f1ffdd80,Drug of choice in acute mania is:,D,A,false,disorders
+09241e3c-2d1c-42ab-b028-9ccd44805096,"A patient presents with depressed mood, loss of sleep, loss of hope, feeling of wohlessness and diminished concentration for last 1 month. Which of the following is the drug of choice in this patient?",A,A,true,disorders
+7005ea41-c8fa-48f8-8f50-9c6cd1296b96,"A 30-year-old lady complains of sudden onset breathlessness, anxiety, palpitations and feeling of impending doom. Physical examination is normal. What is the diagnosis",A,A,true,disorders
+427247a9-9688-41f2-8207-b76a56b3c531,DSM-IV criterion for depression is,B,B,true,disorders
+3b8c544b-5d55-4315-913a-e3d9d98b83b2,Treatment of choice for phobias is -,B,B,true,treatments
+3e1381e1-a48c-4f0b-83c0-9c92892286e7,Disruption or disorganization of biological rhythm is observed in:,C,C,true,disorders
+3592c9be-00de-44f7-94e3-0bfd49815558,"A patient is brought to the casualty in the state of altered sensorium. He was on lithium treatment for affective disorder and has suffered through an attack of epileptic fits. On examination he has worsening tremors, increased DTR's and incontinence of urine. He has also undergone an episode of severe gastroenteritis 2 days ago. The probable cause for his present state is:",A,A,true,disorders
+ee502996-f90e-443a-a936-fd8ad31cfea3,Delusion is a disorder of -,A,A,true,symptoms
+aeb1d5ae-e4d7-4e61-babf-1824ad7f9d80,Persistent feeling of guilt is seen in -,B,B,true,treatments
+744a0680-ee97-4094-9801-d26446349fea,Not used for erectile dysfunction -,A,A,true,treatments
+40969c87-cf66-4778-aa01-d52d93a8a3d5,Major depression is defined as depressed mood on a daily basis for a minimum duration?,A,A,true,disorders
+5c8be269-ac4f-4e4f-b387-4302583b5811,"Fear to contamination, counting behaviours, and having to check and recheck are features characteristic of",C,C,true,disorders
+55e0d7e2-caed-48fa-a104-b5e4fdd6ccb1,"A female with symptoms mimicking heart disease with normal ECG & X-ray, the diagnosis is -",B,B,true,treatments
+0f7a1ef1-5380-40ed-9ff3-8a59d0c2562d,Copycat suicide is seen at age of:-,A,A,true,disorders
+4237d85a-9f8c-4def-b38b-71bc76053ba8,positive reinforcrmrnt was given by,B,B,true,treatments
+09ff664b-1c49-48cf-87a4-18c366058e82,Mania is a,A,A,true,disorders
+5db3f04f-59a8-452a-bd59-a09b95511a35,Substance responsible for erection of penis -,B,B,true,treatments
+fa3d3fb9-34f5-44ea-b53b-469d213ba174,The drug of choice for obsessive-compulsive disorder is,B,B,true,disorders
+c85be7db-00a2-4050-8701-d75f9946e988,Capgras syndrome is -,B,B,true,symptoms
+ea828d51-0e60-432d-afe0-a08744cb7d55,Which of the following disorders is most closely associated with thyroid disease?,C,C,true,disorders
+dec7f8a0-a2b6-4f34-9e99-8bab80009df9,Visual analog scale is a -,A,A,true,symptoms
+7884936c-058c-4536-8d29-b6851f7f7148,"A 35 years old man gets up from sleep with sudden onset breathlessness, anxiety, palpitation, shaking hand, profuse sweating, discomfort in chest & fear of dying. There is history of similar episodes in past. Physical examination is normal. Probable diagnosis is-",A,A,true,treatments
+e6adf68b-963f-4022-9bcb-39ff30493d30,Illusion is a disorder of-,B,B,true,symptoms
+d0635db6-7a3e-4fb0-9bf4-31090de8b949,The period of normalcy is seen between two psychotic episodes. The diagnosis is,B,B,true,disorders
+20b599b2-2dc7-4675-98f2-92174ed2aaa2,A 40 year old woman is being evaluated. She is noted to have a decreased latency of REM. Which disorder is this woman most likely to be suffering from?,B,B,true,disorders
+c1c24fde-a1db-404f-946f-ef5d33afd372,Treatment of choice for acute panic attacks is -,B,B,true,treatments
+8ee459f4-736e-4552-b95a-a6453b34f58e,Gretaest psychiatric burden in society is due to?,A,A,true,treatments
+5c009e8e-8d0c-4915-a0bc-729fc576fcd4,"A 40-year-old man is brought to you by his friends. Apparently, he has ingested some unknown medication in a suicide attempt. The patient is disoriented to time. His temperature is 103 F, BP is 120/85 pulse 100/min and irregular, and respirations are 22/min. The skin is flushed and dry. Dilated pupils and muscle twitching are also noted on examination. ECG reveals prolonged QRS complexes. Hepatic transaminases are normal, and ABG shows a normal pH. These findings are most likely due to intoxication by which substance?",D,D,true,treatments
+5e4d2fdd-8412-49dc-804a-7207fded32c8,Irresistible urge to do a thing repeatedly is seen in,A,A,true,disorders
+20538a9a-b5e9-4879-9ff2-d648b2ae083f,A 17-year-old boy is diagnosed with schizophrenia. What is the risk that one of his siblings will develop the disease?,C,invalid answer,false,disorders
+0f8af4df-d387-423d-99cf-57f8b78e63aa,"Along a pleasant stimulus, noxious stimuli are given in treatment of alcohol dependence or sexual disorder is which of the following type of behaviour therapy",B,B,true,treatments
+90135651-e561-4789-b144-39c740f1f834,Clozapine is used in:,B,B,true,treatments
+a80bf51b-6b81-413a-af79-3c17f89836ce,"A 67 year old lady is brought in by her 6 children saying that she has gone senile. Six months after her husband's death she has become more religious, spiritual and gives lots of money in donation. She is occupied in too many activities and sleeps less. She now believes that she has a goal to change the society. She does not like being brought to the hospital and is argumentative on being questioned on her doings. The diagnosis is:-",C,C,true,disorders

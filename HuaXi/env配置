@@ -1,14 +1,25 @@
 # ===============基础模型==================
 #用来回答问题的模型
 #MODEL_NAME = "deepseek-chat"
+#MODEL_NAME="gpt-4o-mini"
 #MODEL_API_URL="https://ai.nengyongai.cn/v1"
-#MODEL_API_KEY="填自己的"
+#MODEL_API_KEY="sk-6dDGzqJeKrZQc4YTiXkthl6N1ezrNkyFD3KOcvVW0XKR8sZB"
+
+#MODEL_NAME="deepseek-v3"
+#MODEL_NAME="o1"
+MODEL_NAME="gpt-4o-mini-2024-07-18"
+MODEL_API_URL="https://api.holdai.top/v1"
+MODEL_API_KEY="sk-obW0OmUVEeOlLfT7B944E2E2De3642F8B247C4252452DcE3"
 
 
 #嵌入模型
 EBD_MODEL_NAME="text-embedding-3-small"
 EBD_MODEL_API_URL="https://ai.nengyongai.cn/v1"
-EBD_MODEL_API_KEY="填自己的"
+EBD_MODEL_API_KEY="sk-qz2oVXp2zhSaGYd6H0bkvDdIgHCRVTeZjQs4U07Fj2MiyFDO"
+
+#EBD_MODEL_NAME="BAAI/bge-m3"
+#EBD_MODEL_API_URL="https://api.holdai.top/v1"
+#EBD_MODEL_API_KEY="sk-8lGidjXrai4pj3TVF4Bc2aD6727b45D6B8E3C0C22b991434"
 
 #====================各种地址===================
 #日志存储地址
